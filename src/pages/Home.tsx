@@ -5,6 +5,7 @@ import Menu from '../components/Menu'
 import Testimonials from '../components/Testimonials'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
+import "../App.css"
 const Home = () => {
   return (
     <div>
