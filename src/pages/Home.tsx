@@ -11,7 +11,7 @@ const Home = () => {
     <div>
      
        <Navbar/>
-       <Hero/>
+        <Hero/>
          <Menu />
          <Testimonials/>
          <Contact/>
@@ -21,4 +21,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home;

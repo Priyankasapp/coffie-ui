@@ -263,9 +263,9 @@ const Hero = () => {
                 whileHover={{ x: 0 }}
                 transition={{ duration: 0.3 }}
               />
-              <span className="relative z-10 group-hover:text-white transition-colors duration-300">
+              {/* <span className="relative z-10 group-hover:text-white transition-colors duration-300">
                 ☕ Explore Menu
-              </span>
+              </span> */}
             </motion.button>
 
             <motion.button
